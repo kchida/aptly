@@ -1,6 +1,6 @@
 =====
 aptly
-=====
+=========
 
 .. image:: https://travis-ci.org/smira/aptly.png?branch=master
     :target: https://travis-ci.org/smira/aptly
